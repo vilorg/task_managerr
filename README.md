@@ -50,28 +50,12 @@ Task Manager — это приложение на Flutter для управле�
 
 ## Структура проекта
 
-lib/
-├── core/
-│ ├── logger.dart
-│ └── theme.dart
-├── features/
-│ ├── task/
-│ │ ├── data/
-│ │ ├── domain/
-│ │ │ └── todo_model.dart
-│ │ └── presentation/
-│ │ ├── pages/
-│ │ │ ├── add_edit_task_page.dart
-│ │ │ └── home_page.dart
-│ │ ├── widgets/
-│ │ │ ├── persistent_header.dart
-│ │ │ └── task_item.dart
-└── main.dart
+![Структура](https://raw.githubusercontent.com/vilorg/task_manager/a7d1d149c2bab54c988c7ae92147857aa6420e18/structure.png)
 
 ## Скриншоты
 
-![Главный экран](https://raw.githubusercontent.com/vilorg/task_manager/commit/main.png)
-![Экран добавления задачи](https://raw.githubusercontent.com/vilorg/task_manager/commit/add_task.png)
+![Главный экран](https://raw.githubusercontent.com/vilorg/task_manager/a7d1d149c2bab54c988c7ae92147857aa6420e18/main.png)
+![Экран добавления задачи](https://raw.githubusercontent.com/vilorg/task_manager/a7d1d149c2bab54c988c7ae92147857aa6420e18/add_task.png)
 
 ## Логирование
 
