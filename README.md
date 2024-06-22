@@ -63,7 +63,7 @@ Task Manager — это приложение на Flutter для управле�
 
 ## Ссылка на Apk
 
-- [Release Apk](https://github.com/vilorg)
+- [Release Apk](https://drive.google.com/file/d/1wjXPV8shUUWd3qvbQbJYI3JVPkQ8kBgn/view?usp=sharing)
 
 ## Авторы
 
